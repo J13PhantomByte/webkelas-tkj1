@@ -32,7 +32,6 @@ const Carousel = () => {
 		"/19.jpeg",
 		"/20.jpeg",
 		"/21.jpeg",
-		"/dist/22.jpeg",
 
 	])
 
