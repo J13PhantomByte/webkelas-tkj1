@@ -32,6 +32,8 @@ const Carousel = () => {
 		"/19.jpeg",
 		"/20.jpeg",
 		"/21.jpeg",
+		"/22.jpeg",
+
 	])
 
 	const [open, setOpen] = useState(false)
